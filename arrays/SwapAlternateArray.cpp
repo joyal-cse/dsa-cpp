@@ -1,4 +1,6 @@
 //program to swap alternate values in a 1-d array
+//Example:{1,2,3,4,5}={2,1,4,3,5}
+
 #include<bits/stdc++.h>
 using namespace std;
 
